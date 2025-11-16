@@ -1,0 +1,37 @@
+{
+  "name": "zama-sealed-bid-auction-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@farcaster/miniapp-sdk": "^0.2.1",
+    "@farcaster/quick-auth": "^0.0.8",
+    "@hookform/resolvers": "^5.0.1",
+    "@privy-io/react-auth": "^3.7.0",
+    "@zama.dev/fhevm": "^0.3.0",
+    "ethers": "^6.13.1",
+    "wagmi": "^2.12.1",
+    "viem": "^2.21.1",
+    "next": "15.3.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-hook-form": "^7.56.3",
+    "zod": "^3.24.4",
+    "lucide-react": "^0.511.0",
+    "sonner": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.17.47",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "5.8.3"
+  }
+}
