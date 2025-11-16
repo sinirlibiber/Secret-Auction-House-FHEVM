@@ -1,0 +1,26 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Secure Crypto App",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_b15291ce-e6b2-4cb8-a060-1507129d54b6-2FFETOvZ1I2CooZpoGLzoM2DipO8xO",
+    "homeUrl": "https://word-donkey-122.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_b15291ce-e6b2-4cb8-a060-1507129d54b6-2FFETOvZ1I2CooZpoGLzoM2DipO8xO",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Secure Crypto App",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_b15291ce-e6b2-4cb8-a060-1507129d54b6-2FFETOvZ1I2CooZpoGLzoM2DipO8xO"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
