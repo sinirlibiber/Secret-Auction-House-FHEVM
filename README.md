@@ -9,7 +9,7 @@
 [![Zama FHEVM](https://img.shields.io/badge/Zama-FHEVM-9945FF?style=for-the-badge)](https://www.zama.ai/)
 [![Base](https://img.shields.io/badge/Base-Network-0052FF?style=for-the-badge&logo=coinbase)](https://base.org/)
 
-[Live Demo](https://your-demo-url.vercel.app) • [Documentation](https://docs.zama.ai/fhevm) • [Report Bug](https://github.com/yourusername/secret-auction-house/issues)
+[Live Demo](https://your-demo-url.vercel.app) • [Documentation](https://docs.zama.ai/fhevm) • [Report Bug](https://github.com/sinirlibiber/Secret-Auction-House-FHEVM/issues)
 
 </div>
 
@@ -337,9 +337,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/secret-auction-house/issues)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Discord**: [Join our community](https://discord.gg/yourcommunity)
+- **GitHub Issues**: [Create an issue](https://github.com/sinirlibiber)
+- **Twitter**: [@yourhandle](https://twitter.com/angrypepp3r)
+- **Discord**: elephant6534
 
 ---
 
